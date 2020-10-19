@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi there 👋, I am Matheus Vinícius
 
-<!--
-**mtwzim/mtwzim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Visits Badge](https://badges.pufler.dev/visits/mtwzim/mtwzim)](#) 
+[![Linkedin Badge](https://img.shields.io/badge/-mtwzim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mtwzim/)](https://www.linkedin.com/in/mtwzim/)
+[![Linkedin Badge](https://img.shields.io/badge/-mtwzim@gmail.com-black?style=flat-square&logo=gmail&logoColor=brown&link=mailto:mtwzim@gmail.com)](mailto:mtwzim@gmail.com)
 
-Here are some ideas to get you started:
+I’m Full-Stack Developer, currently working and studying with this languages: 
+- JavaScript 
+- TypeScript
+- PHP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+and this frameworks:
+- ⚛️ React Native
+- Angular
+- Ionic
+- NestJS
+- Laravel
+- CodeIgniter
+- TailwindCSS
+
+and this libraries:
+- ⚛️ React
+- TypeORM
+
+and some other little things:
+- 🐊 Deno 
