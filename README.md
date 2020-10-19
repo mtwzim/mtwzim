@@ -5,22 +5,22 @@
 [![Linkedin Badge](https://img.shields.io/badge/-mtwzim@gmail.com-black?style=flat-square&logo=gmail&logoColor=brown&link=mailto:mtwzim@gmail.com)](mailto:mtwzim@gmail.com)
 
 I’m Full-Stack Developer, currently working and studying with this languages: 
-- JavaScript 
-- TypeScript
-- PHP
+- :yellow_circle: JavaScript 
+- :large_blue_circle: TypeScript
+- :purple_circle: PHP
 
 and this frameworks:
 - ⚛️ React Native
-- Angular
-- Ionic
-- NestJS
-- Laravel
-- CodeIgniter
-- TailwindCSS
+- :large_blue_circle: Angular
+- :large_blue_circle: Ionic
+- :large_blue_circle: NestJS
+- :purple_circle: Laravel
+- :purple_circle: CodeIgniter
+- :orange_circle: TailwindCSS
 
 and this libraries:
 - ⚛️ React
-- TypeORM
+- :large_blue_circle: TypeORM
 
 and some other little things:
 - 🐊 Deno 
