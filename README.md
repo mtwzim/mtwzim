@@ -12,7 +12,6 @@ I’m Full-Stack Developer, currently working and studying with this languages:
 and this frameworks:
 - ⚛️ React Native
 - :large_blue_circle: Angular
-- :large_blue_circle: Ionic
 - :large_blue_circle: NestJS
 - :purple_circle: Laravel
 - :purple_circle: CodeIgniter
