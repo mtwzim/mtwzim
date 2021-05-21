@@ -2,7 +2,7 @@
 
 [![Visits Badge](https://badges.pufler.dev/visits/mtwzim/mtwzim?style=flat-square)](#) 
 [![Linkedin Badge](https://img.shields.io/badge/-mtwzim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mtwzim/)](https://www.linkedin.com/in/mtwzim/)
-[![Linkedin Badge](https://img.shields.io/badge/-mtwzim@gmail.com-black?style=flat-square&logo=gmail&logoColor=brown&link=mailto:contactmtwzim@gmail.com)](mailto:contactmtwzim@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-contactmtwzim@gmail.com-black?style=flat-square&logo=gmail&logoColor=brown&link=mailto:contactmtwzim@gmail.com)](mailto:contactmtwzim@gmail.com)
 
 I’m Full-Stack Developer, currently working and studying with this languages: 
 - :large_blue_circle: TypeScript
