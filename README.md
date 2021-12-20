@@ -10,7 +10,7 @@ I’m Full-Stack Developer, currently working and studying with these languages:
 - :purple_circle: PHP
 
 Front-end Skills:
-- :large_red_circle: Angular
+- :red_circle: Angular
 - :purple_circle: Ionic
 - :large_blue_circle: React Native
 - :orange_circle: TailwindCSS
@@ -18,12 +18,12 @@ Front-end Skills:
 Back-end Skills:
 - :large_blue_circle: NestJS
 - :black_circle: Express
-- :large_red_circle: Laravel/Lumen
+- :red_circle: Laravel/Lumen
 - :large_blue_circle: CakePHP
 - :orange_circle: CodeIgniter
-- :large_red_circle: MySQL
+- :red_circle: MySQL
 - :large_blue_circle: PostgreSQL
-- :black_circle: MongoDB
+- :purple_circle: MongoDB
 
 Others: 
 - :large_blue_circle: AWS DevOps
