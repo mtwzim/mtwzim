@@ -4,34 +4,27 @@
 [![Linkedin Badge](https://img.shields.io/badge/-mtwzim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mtwzim/)](https://www.linkedin.com/in/mtwzim/)
 [![Linkedin Badge](https://img.shields.io/badge/-contactmtwzim@gmail.com-black?style=flat-square&logo=gmail&logoColor=brown&link=mailto:contactmtwzim@gmail.com)](mailto:contactmtwzim@gmail.com)
 
-I’m Full-Stack Developer, currently working and studying with these languages: 
-- :large_blue_circle: TypeScript
-- :yellow_circle: JavaScript 
+I’m Full-Stack Developer/Tech Lead, currently working mainly with these languages: 
+- :large_blue_circle: TypeScript/JavaScript 
+- :red_circle: Ruby
 - :purple_circle: PHP
 
 Front-end Skills:
-- :red_circle: Angular
-- :purple_circle: Ionic
-- :large_blue_circle: React Native
-- :orange_circle: TailwindCSS
+- :red_circle: Angular, VueJS
+- :orange_circle: Tailwind
 
 Back-end Skills:
 - :large_blue_circle: NestJS
-- :black_circle: Express
-- :red_circle: Laravel/Lumen
-- :large_blue_circle: CakePHP
-- :orange_circle: CodeIgniter
-- :red_circle: MySQL
-- :large_blue_circle: PostgreSQL
-- :purple_circle: MongoDB
+- :red_circle: Ruby on Rails
+- :red_circle: Laravel, CakePHP, CodeIgniter
 
 Others: 
 - :large_blue_circle: AWS DevOps
 - :orange_circle: Serverless Framework
-- :purple_circle: GitHub Actions
+- :purple_circle: CI/CD with Github Actions and Jenkins
+- :large_blue_circle: PostgreSQL, MongoDB, MySQL
 
-and some other little things:
-- 🐊 Deno 
+and other things that are not described here...
 
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=mtwzim&count_private=true&show_icons=true&theme=radical)](https://github.com/mtwzim)
