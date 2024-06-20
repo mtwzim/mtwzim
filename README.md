@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-mtwzim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mtwzim/)](https://www.linkedin.com/in/mtwzim/)
 [![Linkedin Badge](https://img.shields.io/badge/-contato@matheusvinicius.com.br-black?style=flat-square&logo=gmail&logoColor=brown&link=mailto:contato@matheusvinicius.com.br)](mailto:contato@matheusvinicius.com.br)
 
-I’m Full-Stack Developer/Tech Lead, currently working mainly with these languages: 
+I’m Full-Stack Developer/Tech Lead at Imagine, currently working mainly with these languages: 
 - :large_blue_circle: TypeScript/JavaScript 
 - :red_circle: Ruby
 - :purple_circle: PHP
