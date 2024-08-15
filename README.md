@@ -7,23 +7,23 @@
 I’m Software Engineer / DevOps working as _Tech Lead_ at **Imagine** 
 
 
-[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,ruby,php&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,ruby,php&perline=4)](https://imagineapps.com.br)
 
 Front-end Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=angular,vuejs,react,tailwind&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,vuejs,react,tailwind&perline=4)](https://imagineapps.com.br)
 
 Back-end Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=nestjs,rails,laravel,symfony,rabbitmq,express&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nestjs,rails,laravel,symfony,rabbitmq,express&perline=3)](https://imagineapps.com.br)
 
 Misc: 
 
 
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,googlecloud&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,googlecloud&perline=3)](https://imagineapps.com.br)
 
-[![My Skills](https://skillicons.dev/icons?i=docker,githubactions,jenkins&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,githubactions,jenkins&perline=3)](https://imagineapps.com.br)
 
-[![My Skills](https://skillicons.dev/icons?i=postgresql,mongodb,mysql&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgresql,mongodb,mysql&perline=3)](https://imagineapps.com.br)
 
 Others: BareMetal Infra DevOps, Serverless Stack with AWS, Terraform
