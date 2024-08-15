@@ -4,22 +4,26 @@
 [![Linkedin Badge](https://img.shields.io/badge/-mtwzim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mtwzim/)](https://www.linkedin.com/in/mtwzim/)
 [![Mail Badge](https://img.shields.io/badge/-matheus.vinicius@imagineapps.com.br-purple?style=flat-square&logo=mailgun&logoColor=white&link=mailto:matheus.vinicius@imagineapps.com.br)](mailto:matheus.vinicius@imagineapps.com.br)
 
-I’m Full-Stack Developer working as Tech Lead at **Imagine**, currently with these languages: 
-- :large_blue_circle: TypeScript/JavaScript 
-- :red_circle: Ruby
-- :purple_circle: PHP
+I’m Software Engineer / DevOps working as _Tech Lead_ at **Imagine** 
+
+
+[![My Skills](https://skillicons.dev/icons?i=typescript,javascript,ruby,php&perline=4)](https://skillicons.dev)
 
 Front-end Skills:
-- :red_circle: Angular, VueJS
-- :orange_circle: Tailwind
+
+[![My Skills](https://skillicons.dev/icons?i=angular,vuejs,react,tailwind&perline=4)](https://skillicons.dev)
 
 Back-end Skills:
-- :large_blue_circle: NestJS
-- :red_circle: Ruby on Rails
-- :red_circle: Laravel, CakePHP, CodeIgniter
 
-Others: 
-- :large_blue_circle: AWS / BareMetal Infra DevOps
-- :orange_circle: Serverless Stack with AWS
-- :purple_circle: CI/CD with Github Actions and Jenkins
-- :large_blue_circle: PostgreSQL, MongoDB, MySQL
+[![My Skills](https://skillicons.dev/icons?i=nestjs,rails,laravel,symfony,rabbitmq,express&perline=3)](https://skillicons.dev)
+
+Misc: 
+
+
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,googlecloud&perline=3)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=docker,githubactions,jenkins&perline=3)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=postgresql,mongodb,mysql&perline=3)](https://skillicons.dev)
+
+Others: BareMetal Infra DevOps, Serverless Stack with AWS, Terraform
