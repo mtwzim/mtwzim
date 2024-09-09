@@ -11,7 +11,7 @@ I’m Software Engineer / DevOps working as _Tech Lead_ at **Imagine**
 
 Front-end Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=angular,vuejs,react,tailwind&perline=4)](https://imagineapps.com.br)
+[![My Skills](https://skillicons.dev/icons?i=angular,vuejs,react,tailwind,bootstrap,jquery&perline=3)](https://imagineapps.com.br)
 
 Back-end Skills:
 
@@ -23,6 +23,8 @@ Misc:
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,googlecloud&perline=3)](https://imagineapps.com.br)
 
 [![My Skills](https://skillicons.dev/icons?i=docker,githubactions,jenkins&perline=3)](https://imagineapps.com.br)
+
+[![My Skills](https://skillicons.dev/icons?i=terraform,heroku,github&perline=3)](https://imagineapps.com.br)
 
 [![My Skills](https://skillicons.dev/icons?i=postgresql,mongodb,mysql&perline=3)](https://imagineapps.com.br)
 
